@@ -41,7 +41,10 @@ English: B1 (техдоки/встречи).
 [![Trophy](https://github-profile-trophy.vercel.app/?username=zitraksmoode&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👀 Visitors  
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-username>"/>  
+    </div>
 
 ## 🌟 Featured Repos  
 Топ-3 pinned — демо стека (Java/Spring фокус, из HH-опыта).
