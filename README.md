@@ -1,7 +1,7 @@
 # Привет, я Дмитрий Цыбин! 👋
 
 **Junior+ Java Backend Developer** | **Pega PRPC 8.3 + Spring Boot** | **Оптимизации +30% в FinTech (ЛАНИТ для Альфа-Банка)** 🚀  
-*Свободный агент с сентября 2025 — открыт для remote/full-time в Уфе/Москве, фриланса или коллабов в Java Backend, Microservices! ЗП 120–150k net. Готов к тех-интервью по Stream API, Kafka или Pega activities. 
+*Свободный агент с сентября 2025 — открыт для remote/full-time в Уфе/Москве, фриланса или коллабов в Java Backend,Microservices! ЗП 120–150k net. Готов к тех-интервью.
 
 ### 🔥 Достижения в Enterprise (ЛАНИТ для Альфа-Банка)
 - 🚀 **Оптимизация премиум-клиентов**: Java-метод с Stream API + лямбдами — ускорил на 25–30%, снизил ошибки на 15% (Jira), сэкономил 10+ ч/неделю.
@@ -29,34 +29,32 @@ Enterprise-стек (1+ год ЛАНИТ) + self-taught. Готов к Java 11+
 English: B1 (техдоки/встречи).
 
 ## 📊 GitHub Stats  
- (Авто-обновление)
+(Авто-обновление)
 
 [![Streak](https://github-readme-stats.vercel.app/api?username=zitraksmoode&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zitraksmoode&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zitraksmoode&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### 🏆 Trophies  
-Бейджи за коммиты  
+Бейджи за коммиты
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=zitraksmoode&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👀 Visitors  
-Сколько глаз? 📊  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=zitraksmoode.README)](https://github.com/gazpachoking/visitor-badge)
+[![Visitors](https://komarev.com/ghpvc?id=zitraksmoode&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌟 Featured Repos  
 Топ-3 pinned — демо стека (Java/Spring фокус, из HH-опыта).
 
-- **[Library-Kafka-Docker-v3](https://github.com/zitraksmoode/Library-Kafka-Docker-v3)**: Microservices библиотека с Apache Kafka & Docker Compose | Async события для high-load (100k+ запросов/день, Spring Boot интеграция, оптимизации +30%).  
+- **[Library-Kafka-Docker-v3](https://github.com/zitraksmoode/Library-Kafka-Docker-v3)**: Microservices библиотека с Apache Kafka & Docker Compose | Async события для high-load (100k+ запросов/день, Spring Boot интеграция, оптимизации).  
 - **[springSecFirstApp](https://github.com/zitraksmoode/springSecFirstApp)**: Spring Security intro | JWT auth для REST API | Secure microservices demo (Pega-compatible, role-based access).  
-- **[JDBC-API-DAO](https://github.com/zitraksmoode/JDBC-API-DAO)**: JDBC DAO паттерн на Java | Queries/оптимизации в MS SQL/PostgreSQL | Database flow для Pega (Hibernate-like, latency -25%).  
+- **[JDBC-API-DAO](https://github.com/zitraksmoode/JDBC-API-DAO)**: JDBC DAO паттерн на Java | Queries/оптимизации в MS SQL/PostgreSQL | Database flow для Pega (Hibernate-like, latency).  
 
-Star/форк 
+Star/форк
 
 ## 🚀 Currently Learning & Roadmap  
 - 📚 **Прокачиваю**: Spring Security/MVC, Docker Compose (контейнеры), Liquibase (миграции), Kafka (async).  
 - 🎯 **Roadmap**: Open-source PR в Pega/Java, pet-проект microservices с high-load (JMeter-тесты).
 
 ## 💬 Let's Connect!  
-Ищешь Java/Pega dev для FinTech/high-load? Пиши: email или @Tssybin. Готов live-coding по +30% оптимизациям или Kafka! 
-*Обновлено: 1 октября 2025*
+Ищешь Java/Pega dev для FinTech/high-load? Пиши: email или @Tssybin. Готов live-coding по +30% оптимизациям или Kafka!
