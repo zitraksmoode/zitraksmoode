@@ -43,7 +43,7 @@ English: B1 (техдоки/встречи).
 ### 👀 Visitors  
 <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
+            src="https://widgetbite.com/stats/<zitraksmoode>"/>  
     </div>
 
 ## 🌟 Featured Repos  
