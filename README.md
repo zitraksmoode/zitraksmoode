@@ -59,5 +59,4 @@ Star/форк
 - 📚 **Прокачиваю**: Spring Security/MVC, Docker Compose (контейнеры), Liquibase (миграции), Kafka (async).  
 - 🎯 **Roadmap**: Open-source PR в Pega/Java, pet-проект microservices с high-load (JMeter-тесты).
 
-## 💬 Let's Connect!  
-Ищешь Java/Pega dev для FinTech/high-load? Пиши: email или @Tssybin. Готов live-coding по +30% оптимизациям или Kafka!
+
