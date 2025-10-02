@@ -52,7 +52,7 @@ English: B1 (техдоки/встречи).
 - **[Library-Kafka-Docker-v3](https://github.com/zitraksmoode/Library-Kafka-Docker-v3)**: Microservices библиотека с Apache Kafka & Docker Compose | Async события для high-load (100k+ запросов/день, Spring Boot интеграция, оптимизации).  
 - **[springSecFirstApp](https://github.com/zitraksmoode/springSecFirstApp)**: Spring Security intro | JWT auth для REST API | Secure microservices demo (Pega-compatible, role-based access).  
 - **[JDBC-API-DAO](https://github.com/zitraksmoode/JDBC-API-DAO)**: JDBC DAO паттерн на Java | Queries/оптимизации в MS SQL/PostgreSQL | Database flow для Pega (Hibernate-like, latency).
- **[CalculatorSpringMVC-Vue](https://github.com/zitraksmoode/CalculatorSpringMVC-Vue)**: Калькулятор на Spring Boot MVC с Vue 3 frontend | Microservices via Eureka, H2 DB для истории расчётов, оптимизированная арифметика (= через Stream API) | REST API для фронтов, responsive дизайн с Tailwind.
+- **[CalculatorSpringMVC-Vue](https://github.com/zitraksmoode/CalculatorSpringMVC-Vue)**: Калькулятор на Spring Boot MVC с Vue 3 frontend | Microservices via Eureka, H2 DB для истории расчётов, оптимизированная арифметика (= через Stream API) | REST API для фронтов, responsive дизайн с Tailwind.
 
 Star/форк
 
