@@ -12,12 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zitraksmoode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9EB2C0&hide=stars,issues,contribs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitraksmoode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9EB2C0" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zitraksmoode&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=9EB2C0&currStreakLabel=FFFFFF&sideLabels=9EB2C0&dates=9EB2C0" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitraksmoode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9EB2C0" alt="Top Languages" width="100%" />
 </div>
 
 ## Достижения
@@ -45,8 +40,6 @@
 <img src="https://img.shields.io/badge/Maven-6%2F10-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven 6/10" />
 <img src="https://img.shields.io/badge/JUnit-6%2F10-%2325A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 6/10" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,hibernate,maven,junit" alt="Tech Icons" width="400" />
-
 </div>
 
 ## Проекты
@@ -62,7 +55,9 @@ JDBC DAO-паттерн на Java. Оптимизированные queries дл
 ### [CalculatorSpringMVC-Vue](https://github.com/zitraksmoode/CalculatorSpringMVC-Vue)
 Full-stack калькулятор: Spring Boot MVC backend + Vue frontend. REST API с H2 DB.
 
+## Activity & Impact
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zitraksmoode&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=9EB2C0&currStreakLabel=FFFFFF&sideLabels=9EB2C0&dates=9EB2C0" alt="Streak Stats" width="100%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zitraksmoode&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </div>
 
