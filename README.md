@@ -28,24 +28,24 @@
 
 ### Core & Frameworks
 <img src="https://img.shields.io/badge/Java%20Core-8%2F10-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Core 8/10" />
-<img src="https://img.shields.io/badge/Spring%20Boot-8%2F10-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot 8/10" />
+<img src="https://img.shields.io/badge/Spring%20Boot-7%2F10-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot 7/10" />
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-7%2F10-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA 7/10" />
 <img src="https://img.shields.io/badge/Hibernate-7%2F10-%23595BCD?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate 7/10" />
 
 ### Messaging & DevOps
 <img src="https://img.shields.io/badge/Kafka-6%2F10-%232D1B69?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka 6/10" />
-<img src="https://img.shields.io/badge/Docker-7%2F10-%230DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker 7/10" />
-<img src="https://img.shields.io/badge/Liquibase-6%2F10-%2335D5E4?style=for-the-badge&logo=liquibase&logoColor=white" alt="Liquibase 6/10" />
+<img src="https://img.shields.io/badge/Docker-5%2F10-%230DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker 5/10" />
+<img src="https://img.shields.io/badge/Liquibase-5%2F10-%2335D5E4?style=for-the-badge&logo=liquibase&logoColor=white" alt="Liquibase 5/10" />
 
 ### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-6%2F10-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL 6/10" />
+<img src="https://img.shields.io/badge/PostgreSQL-7%2F10-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL 7/10" />
 <img src="https://img.shields.io/badge/MS%20SQL-6%2F10-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL 6/10" />
 
 ### Tools
-<img src="https://img.shields.io/badge/Maven-5%2F10-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven 5/10" />
+<img src="https://img.shields.io/badge/Maven-6%2F10-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven 6/10" />
 <img src="https://img.shields.io/badge/JUnit-5%2F10-%2325A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5/10" />
-<img src="https://img.shields.io/badge/Jira-5%2F10-%23008ED9?style=for-the-badge&logo=jira&logoColor=white" alt="Jira 5/10" />
-<img src="https://img.shields.io/badge/Confluence-4%2F10-%23172BF4?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence 4/10" />
+<img src="https://img.shields.io/badge/Jira-10%2F10-%23008ED9?style=for-the-badge&logo=jira&logoColor=white" alt="Jira 10/10" />
+<img src="https://img.shields.io/badge/Confluence-9%2F10-%23172BF4?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence 9/10" />
 
 </div>
 
@@ -76,4 +76,4 @@ Full-stack калькулятор: Spring Boot MVC backend + Vue frontend. REST 
   <a href="https://hh.ru/resume/b7a7330aff0f5ed2740039ed1f4170374c4831"><img src="https://img.shields.io/badge/HH.ru-FF6C00?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru" /></a>
 </div>
 
-© 2024 Дмитрий Цыбин. All rights reserved.
+© 2025 Дмитрий Цыбин. All rights reserved.
