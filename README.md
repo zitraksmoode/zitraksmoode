@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/github/followers/zitraksmoode?label=Followers&style=social" alt="Followers" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitraksmoode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9EB2C0" alt="Top Languages" width="100%" />
-</div>
-
 ## Достижения
 | Проект | Описание | Результат |
 |--------|----------|-----------|
