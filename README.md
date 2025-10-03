@@ -1,7 +1,7 @@
-# Дмитрий Цыбин
+# Dmitry Tsybin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36A2EB&center=true&vCenter=true&width=600&lines=Junior%2B+Java+Backend+Developer;Специализация:+Spring+Boot%2C+Pega+PRPC+8.3;High-load+оптимизация+%28%2B30%25+perf%29+in+FinTech;ЛАНИТ+для+Альфа-Банка;Remote%2FFull-time+in+Уфа%2FМосква;Готов+к+интервью+и+фрилансу" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36A2EB&center=true&vCenter=true&width=600&lines=Junior%2B+Java+Backend+Developer;Specialization:+Spring+Boot%2C+Pega+PRPC+8.3;High-load+optimization+%28%2B30%25+perf%29+in+FinTech;LANIT+for+Alfa-Bank;Remote%2FFull-time+in+Ufa%2FMoscow;Open+to+interviews+and+freelance" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -11,18 +11,18 @@
   <img src="https://img.shields.io/github/followers/zitraksmoode?label=Followers&style=social" alt="Followers" />
 </div>
 
-## Достижения
-| Проект | Описание | Результат |
-|--------|----------|-----------|
-| Оптимизация премиум-клиентов | Java с Stream API и лямбдами для обработки 100k+ запросов/день | +25–30% скорости, -15% ошибок (Jira) |
-| UX-формы на Java | Custom JFrame с Hibernate и MS SQL | +25% удобства (A/B-тесты), seamless flow |
-| Локализация Loan Process | i18n/properties для 5+ языков | +30–40% скорости деплоя (JUnit/Mockito) |
-| Spring Boot REST API | Endpoints для Pega transforms с Liquibase | 50+ PR в BitBucket, 100k+ запросов/день |
+## Achievements
+| Project | Description | Result |
+|---------|-------------|--------|
+| Premium Clients Optimization | Java with Stream API and lambdas for processing 100k+ requests/day | +25–30% speed, -15% errors (Jira) |
+| Java UX Forms | Custom JFrame with Hibernate and MS SQL | +25% usability (A/B-tests), seamless flow |
+| Loan Process Localization | i18n/properties for 5+ languages | +30–40% deployment speed (JUnit/Mockito) |
+| Spring Boot REST API | Endpoints for Pega transforms with Liquibase | 50+ PR in BitBucket, 100k+ requests/day |
 
-Недавний опыт: Backend в ЛАНИТ (Pega + Java SFA-apps, 500+ транзакций/мин, Agile).
+Recent experience: Backend at LANIT (Pega + Java SFA-apps, 500+ transactions/min, Agile).
 
 ## Tech Stack
-Фокус на backend: high-load микросервисы с Spring и Kafka. Уровни навыков в бейджах (junior+ уровень).
+Focus on backend: high-load microservices with Spring and Kafka. Skill levels in badges (junior+ level).
 
 <div align="center">
 
@@ -49,26 +49,28 @@
 
 </div>
 
-## Проекты
+## Projects
 ### [Library-Kafka-Docker-v3](https://github.com/zitraksmoode/Library-Kafka-Docker-v3)
-Микросервисы-библиотека с Apache Kafka и Docker Compose. Async-события для high-load (100k+ запросов/день).
+Microservices library with Apache Kafka and Docker Compose. Async events for high-load (100k+ requests/day).
 
 ### [springSecFirstApp](https://github.com/zitraksmoode/springSecFirstApp)
-Spring Security intro: JWT auth для REST API. Secure microservices с role-based access (Pega-compatible).
+Spring Security intro: JWT auth for REST API. Secure microservices with role-based access (Pega-compatible).
 
 ### [JDBC-API-DAO](https://github.com/zitraksmoode/JDBC-API-DAO)
-JDBC DAO-паттерн на Java. Оптимизированные queries для MS SQL/PostgreSQL (latency -25%).
+JDBC DAO pattern in Java. Optimized queries for MS SQL/PostgreSQL (latency -25%).
 
 ### [CalculatorSpringMVC-Vue](https://github.com/zitraksmoode/CalculatorSpringMVC-Vue)
-Full-stack калькулятор: Spring Boot MVC backend + Vue frontend. REST API с H2 DB.
+Full-stack calculator: Spring Boot MVC backend + Vue frontend. REST API with H2 DB.
 
 ## Activity & Impact
+Open to collaboration on Java/Spring projects — let's build something high-load!
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zitraksmoode&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=9EB2C0&currStreakLabel=FFFFFF&sideLabels=9EB2C0&dates=9EB2C0" alt="Streak Stats" width="100%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zitraksmoode&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </div>
 
-## Контакты
+## Contacts
 <div align="center">
   <a href="mailto:cybindmitrij711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://t.me/Tssybin"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -76,4 +78,4 @@ Full-stack калькулятор: Spring Boot MVC backend + Vue frontend. REST 
   <a href="https://hh.ru/resume/b7a7330aff0f5ed2740039ed1f4170374c4831"><img src="https://img.shields.io/badge/HH.ru-FF6C00?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru" /></a>
 </div>
 
-© 2025 Дмитрий Цыбин. All rights reserved.
+© 2025 Dmitry Tsybin. All rights reserved.
