@@ -1,7 +1,7 @@
 # Dmitry Tsybin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36A2EB&center=true&vCenter=true&width=600&lines=Junior%2B+Java+Backend+Developer;Specialization:+Spring+Boot%2C+Pega+PRPC+8.3;High-load+optimization+%28%2B30%25+perf%29+in+FinTech;LANIT+for+Alfa-Bank;Remote%2FFull-time+in+Ufa%2FMoscow;Open+to+interviews+and+freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36A2EB&center=true&vCenter=true&width=600&lines=+Java+Backend+Developer;Specialization:+Spring+Boot%2C+Pega+PRPC+8.3;High-load+optimization+%28%2B30%25+perf%29+in+FinTech;LANIT+for+Alfa-Bank;Remote%2FFull-time+in+Ufa%2FMoscow;Open+to+interviews+and+freelance" alt="Typing SVG" />
 </div>
 
 <br/>
