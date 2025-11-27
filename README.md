@@ -70,7 +70,7 @@ Open to collaboration on Java/Spring projects — let's build something high-loa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zitraksmoode&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </div>
 
-## LeetCode & Algorithms
+## LeetCode & Algorithms (New account|My first account was lost :( )
 <div align="center">
 
 <a href="https://leetcode.com/u/zitraksmoode/" target="_blank">
