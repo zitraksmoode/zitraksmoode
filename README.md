@@ -70,6 +70,23 @@ Open to collaboration on Java/Spring projects — let's build something high-loa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zitraksmoode&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </div>
 
+## LeetCode & Algorithms
+<div align="center">
+
+<a href="https://leetcode.com/u/zitraksmoode/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="https://leetcode.com/u/zitraksmoode/" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=000000&color=FFA116&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/zitraksmoode&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/zitraksmoode?theme=nord&font=Overpass&ext=heatmap&animation=true&border=0" alt="LeetCode Card" />
+
+</div>
+<br/>
+
 ## Contacts
 <div align="center">
   <a href="mailto:cybindmitrij711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
