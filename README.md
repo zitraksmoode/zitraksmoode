@@ -56,4 +56,4 @@ Backend-разработчик на **Java** с фокусом на сервер
 
 - 📧 **Email:** cybindmitrij711@gmail.com  
 - 💬 **Telegram:** @Tssybin  
-- 💻 **GitHub:** https://github.com/zitraksmoode
+
